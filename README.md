@@ -15,7 +15,6 @@
   <a href="#atom_symbol-follow-me">Follow Me!</a>
 </p>
 
-![code](https://user-images.githubusercontent.com/50564121/181837477-84621994-2709-4b43-af29-e5e92c108b57.png)
 
 ## ⚒️ Tecnologies
 
@@ -36,7 +35,6 @@ This project was developed with the purpose to study apache kafka and springboot
 
 ## 🕸️ Test in WEB
 
-Open Bowser postman or another rest - API software and test routes in [`localhost:3000`](http://localhost:3000).
 Open Frontend webpage in [`localhost:8080`](http://localhost:8080).
 
 # 📚 Docs
