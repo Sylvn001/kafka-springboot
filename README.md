@@ -1,6 +1,6 @@
 # Kafka SpringBoot
 
-[Work In Progress] - This application is not completed
+SpringBoot kafka application 
 
 > Application for consume and produce messages using apache kafka and spring boot
 
